@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_daniel_radcliffe"
+        android:icon="@mipmap/ic_launcher"
+        android:title="@string/text_harry"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_mel_gibson"
+        android:title="@string/text_patriot" />
+
+    <item
+        android:id="@+id/menu_vin_diesel"
+        android:title="@string/text_fast_and_furious" />
+
+    <item
+        android:id="@+id/menu_bruce_willis"
+        android:title="@string/text_die_hard" />
+</menu>
